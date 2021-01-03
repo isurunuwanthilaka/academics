@@ -13,6 +13,6 @@
  
 ### Research
 
-### Miscellaneous</summary>
+### Miscellaneous
 
 ### Fun stuffs
