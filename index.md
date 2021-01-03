@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+[![Created Badge](https://badges.pufler.dev/created/isurunuwanthilaka/sa.msc.cse.uom)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/isurunuwanthilaka/sa.msc.cse.uom)](https://badges.pufler.dev)
 
-You can use the [editor on GitHub](https://github.com/isurunuwanthilaka/sa.msc.cse.uom.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<details>
+  <summary>Design Patterns</summary>
+  <ol>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/04/22/design-patterns-intro">Introduction</a></li>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/04/27/singleton-pattern">Singleton Pattern</a></li>
 
-### Markdown
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/11/15/strategy-pattern">Strategy Pattern</a></li>
+  
+  </ol>
+</details>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<details>
+  <summary>Architectural Patterns</summary>
+  
+</details>
 
-```markdown
-Syntax highlighted code block
+<details>
+  <summary>Miscellaneous</summary>
+  <ol>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/11/12/diagnosing-memory-leaks">
+  Identification of Memory Leaks</a></li>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/10/25/oauth2-jwt-hybrid-architecture">
+  OAuth2 + JWT Hybrid Architecture</a></li>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/06/24/compiler-scratch">
+  Compilers from scratch</a></li>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/10/17/apache-poi">
+  Lets play with Apache POI</a></li>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/10/18/get-into-mqtt-in-2-minutes">
+  Get into MQTT in 3 minutes (Python+Docker)</a></li>
+  </ol>
+</details>
 
-# Header 1
-## Header 2
-### Header 3
+<details>
+  <summary>CI & CD</summary>
+  <ol>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/06/18/jenkins-beginner">
+  Jenkins Beginner Guide</a></li>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/10/19/docker-zero-to-hero">
+  Docker Beginner Guide</a></li>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/10/20/docker-image-to-dockerhub-from-bitbucket">
+  Deploying docker images from Bitbucket to Docker Hub</a></li>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/10/21/docker-image-for-go-app">
+  Building Docker image for GO application</a></li>
+  </ol>
+</details>
 
-- Bulleted
-- List
+<details>
+  <summary>Ballerina</summary>
 
-1. Numbered
-2. List
+  <ol>
+  <li><a href="https://isurunuwanthilaka.github.io/engineering/2020/05/15/ballerina-medium-connector">Ballerina connector for Medium</a></li>
+  </ol>
 
-**Bold** and _Italic_ and `Code` text
+</details>
 
-[Link](url) and ![Image](src)
-```
+<details>
+  <summary>Profession</summary>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  <ol>
+  <li><a href="https://isurunuwanthilaka.github.io/mind/2020/04/18/mind-engineering-part-1">Mind Engineering for Professionals | Part 1</a></li>
+  </ol>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isurunuwanthilaka/sa.msc.cse.uom.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</details>
