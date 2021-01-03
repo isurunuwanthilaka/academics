@@ -11,71 +11,71 @@
 <details>
   <summary>Research</summary>
 
-  <ol>
-  <li><a href="">Module</a></li>
-  </ol>
+  <ul>
+  <li><a href=""> Test</a></li>
+  </ul>
 
 </details>
 
 <details>
   <summary>Semester 1</summary>
 
-  <ol>
-  <li><a href="">Module</a></li>
-  </ol>
+  <ul>
+  <li><a href=""> Test</a></li>
+  </ul>
 
 </details>
 
 <details>
   <summary>Semester 2</summary>
 
-  <ol>
-  <li><a href="">Module</a></li>
-  </ol>
+  <ul>
+  <li><a href=""> Test</a></li>
+  </ul>
 
 </details>
 
 <details>
   <summary>Semester 3</summary>
 
-  <ol>
-  <li><a href="">Module</a></li>
-  </ol>
+  <ul>
+  <li><a href=""> Test</a></li>
+  </ul>
 
 </details>
 
 <details>
   <summary>Semester 4</summary>
 
-  <ol>
-  <li><a href="">Module</a></li>
-  </ol>
+  <ul>
+  <li><a href=""> Test</a></li>
+  </ul>
 
 </details>
 
 <details>
   <summary>Semester 5</summary>
 
-  <ol>
-  <li><a href="">Module</a></li>
-  </ol>
+  <ul>
+  <li><a href=""> Test</a></li>
+  </ul>
 
 </details>
 
 <details>
   <summary>Semester 6</summary>
 
-  <ol>
-  <li><a href="">Module</a></li>
-  </ol>
+  <ul>
+  <li><a href=""> Test</a></li>
+  </ul>
 
 </details>
 
 <details>
   <summary>Fun stuffs</summary>
 
-  <ol>
-  <li><a href="">Module</a></li>
-  </ol>
+  <ul>
+  <li><a href=""> Test</a></li>
+  </ul>
 
 </details>
