@@ -12,6 +12,14 @@
   </ul>
  </details>
  
+ <details>
+  <summary>CS5252 - Requirement Engineering</summary>
+
+  <ul>
+  <li><a href="https://github.com/isurunuwanthilaka/sa.msc.cse.uom/blob/gh-pages/docs/books/Software%20Engineering%20(9th%20Edition).pdf">Ian Sommerville.Software Engineering (Ninth Edition).Addison-Wesley, 2011</a></li>
+  </ul>
+ </details>
+ 
 ### Research
 
 ### Miscellaneous
