@@ -1,81 +1,19 @@
 [![Created Badge](https://badges.pufler.dev/created/isurunuwanthilaka/sa.msc.cse.uom)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/isurunuwanthilaka/sa.msc.cse.uom)](https://badges.pufler.dev)
 
-<details>
-  <summary>Miscellaneous</summary>
-  <ul>
-  <li><a href=""> Test</a></li>
-  </ul>
-</details>
+### Modules
 
 <details>
-  <summary>Research</summary>
+  <summary>CS5212 - Software Architecture Concepts</summary>
 
   <ul>
-  <li><a href=""> Test</a></li>
+  <li><a href="https://github.com/isurunuwanthilaka/sa.msc.cse.uom/blob/gh-pages/docs/books/Software%20Architecture%20in%20Practice%20(3rd).pdf">Len Bass, Paul Clements, & Rick Kazman. Software Architecture in Practice (Thrid Edition). Addison-Wesley, 2013</a></li>
+  <li><a href="https://github.com/isurunuwanthilaka/sa.msc.cse.uom/blob/gh-pages/docs/books/Software%20Architecture_Foundations_Theory_Practice.pdf">Richard N. Taylor, Nenad Medvidovic, & Eric M. Dashofy. Software Architecture: Foundations, Theory, and Practice. Wiley, 2010</a></li>
   </ul>
+ </details>
+ 
+### Research
 
-</details>
+### Miscellaneous
 
-<details>
-  <summary>Semester 1</summary>
-
-  <ul>
-  <li><a href=""> Test</a></li>
-  </ul>
-
-</details>
-
-<details>
-  <summary>Semester 2</summary>
-
-  <ul>
-  <li><a href=""> Test</a></li>
-  </ul>
-
-</details>
-
-<details>
-  <summary>Semester 3</summary>
-
-  <ul>
-  <li><a href=""> Test</a></li>
-  </ul>
-
-</details>
-
-<details>
-  <summary>Semester 4</summary>
-
-  <ul>
-  <li><a href=""> Test</a></li>
-  </ul>
-
-</details>
-
-<details>
-  <summary>Semester 5</summary>
-
-  <ul>
-  <li><a href=""> Test</a></li>
-  </ul>
-
-</details>
-
-<details>
-  <summary>Semester 6</summary>
-
-  <ul>
-  <li><a href=""> Test</a></li>
-  </ul>
-
-</details>
-
-<details>
-  <summary>Fun stuffs</summary>
-
-  <ul>
-  <li><a href=""> Test</a></li>
-  </ul>
-
-</details>
+### Fun stuffs
