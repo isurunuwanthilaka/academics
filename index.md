@@ -4,7 +4,7 @@
 <details>
   <summary>Miscellaneous</summary>
   <ul>
-  <li><a href=""> Test</a></li>
+  <li><a href="/docs/books/Software%20Architecture%20in%20Practice%20(3rd).pdf"> Test</a></li>
   </ul>
 </details>
 
