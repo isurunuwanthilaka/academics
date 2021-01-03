@@ -26,3 +26,8 @@
 ### Miscellaneous
 
 ### Fun stuffs
+
+<ul>
+<li><a href="https://http.cat/">HTTP Cats</a></li>
+<li><a href="https://httpstatusdogs.com/">HTTP Status Dogs</a></li>
+</ul>
