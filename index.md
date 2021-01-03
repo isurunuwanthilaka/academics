@@ -9,6 +9,7 @@
   <ul>
   <li><a href="https://github.com/isurunuwanthilaka/sa.msc.cse.uom/blob/gh-pages/docs/books/Software%20Architecture%20in%20Practice%20(3rd).pdf"> Len Bass, Paul Clements, & Rick Kazman. Software Architecture in Practice (Thrid Edition). Addison-Wesley, 2013</a></li>
   </ul>
+ </details>
 
 ### Miscellaneous</summary>
 
