@@ -29,5 +29,5 @@
 
 <ul>
 <li><a href="https://http.cat/">HTTP Cats</a></li>
-<li><a href="https://httpstatusdogs.com/">HTTP Status Dogs</a></li>
+<li><a href="https://httpstatusdogs.com/">HTTP Dogs</a></li>
 </ul>
