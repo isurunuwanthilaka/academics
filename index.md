@@ -4,7 +4,7 @@
 ### Modules
 
 <details>
-  <summary>CS5212 - Software Architecture Concepts</summary>
+  <summary>Software Architecture Concepts</summary>
 
   <ul>
   <li><a href="https://github.com/isurunuwanthilaka/sa.msc.cse.uom/blob/gh-pages/docs/books/Software%20Architecture%20in%20Practice%20(3rd).pdf">Len Bass, Paul Clements, & Rick Kazman. Software Architecture in Practice (Third Edition). Addison-Wesley, 2013</a></li>
@@ -13,7 +13,7 @@
  </details>
  
  <details>
-  <summary>CS5252 - Requirement Engineering</summary>
+  <summary>Requirement Engineering</summary>
 
   <ul>
   <li><a href="https://github.com/isurunuwanthilaka/sa.msc.cse.uom/blob/gh-pages/docs/books/Software%20Engineering%20(9th%20Edition).pdf">Ian Sommerville.Software Engineering (Ninth Edition).Addison-Wesley, 2011</a></li>
