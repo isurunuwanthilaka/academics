@@ -1,5 +1,7 @@
+[![Visits Badge](https://badges.pufler.dev/visits/isurunuwanthilaka/sa.msc.cse.uom)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/isurunuwanthilaka/sa.msc.cse.uom)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/isurunuwanthilaka/sa.msc.cse.uom)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/all/isurunuwanthilaka/sa.msc.cse.uom?size=50&padding=5&bots=false)](https://badges.pufler.dev)
 
 ### Modules
 
