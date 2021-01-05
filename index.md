@@ -22,6 +22,14 @@
   </ul>
  </details>
  
+ <details>
+  <summary>Advanced Databases</summary>
+
+  <ul>
+  <li><a href="https://github.com/isurunuwanthilaka/sa.msc.cse.uom/blob/gh-pages/docs/books/Database_System_Concepts_7th.pdf">Abraham Silberschatz,Henry F. Korth,S. Sudarshan. Database System Concepts (Seventh Edition).McGraw-Hill,2020</a></li>
+  </ul>
+ </details>
+
 ### Research
 
 ### Miscellaneous
