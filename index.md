@@ -8,7 +8,7 @@
   <summary>Software Architecture Concepts</summary>
 
   <ul>
-  <li><a href="/posts/sac/intro-to-sa.html">Introduction to the Software Architecture</a></li>
+  <li><a href="/sa.msc.cse.uom/posts/sac/intro-to-sa.html">Introduction to the Software Architecture</a></li>
   <li><a href="https://github.com/isurunuwanthilaka/sa.msc.cse.uom/blob/gh-pages/docs/books/Software%20Architecture%20in%20Practice%20(3rd).pdf">Len Bass, Paul Clements, & Rick Kazman. Software Architecture in Practice (Third Edition). Addison-Wesley, 2013</a></li>
   <li><a href="https://github.com/isurunuwanthilaka/sa.msc.cse.uom/blob/gh-pages/docs/books/Software%20Architecture_Foundations_Theory_Practice.pdf">Richard N. Taylor, Nenad Medvidovic, & Eric M. Dashofy. Software Architecture: Foundations, Theory, and Practice. Wiley, 2010</a></li>
   </ul>
