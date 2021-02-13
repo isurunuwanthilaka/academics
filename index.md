@@ -31,6 +31,17 @@
   </ul>
  </details>
 
+ <details>
+  <summary>Big Data Analytics</summary>
+
+  <ul>
+  <li><a href="https://github.com/isurunuwanthilaka/wordcount-map-reduce-python"> Map Reduce - WordCount - Python</a></li>
+  <li><a href="https://github.com/isurunuwanthilaka/wordcount-map-reduce-java"> Map Reduce - WordCount - Java</a></li>
+  <li><a href="https://github.com/isurunuwanthilaka/avg-mapreduce-titanic"> Map Reduce - Averaging on Titanic dataset - Java</a></li>
+  <li><a href="https://github.com/isurunuwanthilaka/map-reduce-average-java"> Map Reduce - Averaging on list of numbers - Java</a></li>
+  </ul>
+ </details>
+
 ### Research
 
 ### Miscellaneous
