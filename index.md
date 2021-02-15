@@ -2,7 +2,7 @@
 [![Created Badge](https://badges.pufler.dev/created/isurunuwanthilaka/software-architecture)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/isurunuwanthilaka/software-architecture)](https://badges.pufler.dev)
 
-### Modules
+### Areas
 
 <details>
   <summary>Software Architecture Concepts</summary>
@@ -42,18 +42,6 @@
   </ul>
  </details>
 
-### Research
+### Lets do Research
 
-### Miscellaneous
-
-### Fun stuffs
-
-<ul>
-<li><a href="https://http.cat/">HTTP Cats</a></li>
-<li><a href="https://httpstatusdogs.com/">HTTP Dogs</a></li>
-</ul>
-
-### Contributors
-
-[![Contributors Display](https://badges.pufler.dev/contributors/isurunuwanthilaka/software-architecture?size=50&padding=5&bots=true)](https://badges.pufler.dev)
-
+### Miscellaneous Ideas
