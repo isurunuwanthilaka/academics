@@ -1,2 +1,3 @@
-# MSc (Software Architecture) at CSE UOM
-This is aggregation of supporting resources for MSc Software Architecture.
+# Software Architecture
+
+This is a place to learn Software Architecture.
