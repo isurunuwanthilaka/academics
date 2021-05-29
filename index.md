@@ -7,7 +7,7 @@
   <li><a href="/software-architecture/posts/sac/intro-to-sa.html">Introduction to the Software Architecture</a></li>
 </ol>
 
-### Resource
+### Resources
 
 <details>
   <summary>Software Architecture Concepts</summary>
