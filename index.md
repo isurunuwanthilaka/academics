@@ -2,13 +2,17 @@
 [![Created Badge](https://badges.pufler.dev/created/isurunuwanthilaka/software-architecture)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/isurunuwanthilaka/software-architecture)](https://badges.pufler.dev)
 
-### Areas
+### Posts
+<ul>
+  <li><a href="/software-architecture/posts/sac/intro-to-sa.html">Introduction to the Software Architecture</a></li>
+</ul>
+
+### Resource
 
 <details>
   <summary>Software Architecture Concepts</summary>
 
   <ul>
-  <li><a href="/software-architecture/posts/sac/intro-to-sa.html">Introduction to the Software Architecture</a></li>
   <li><a href="/software-architecture/docs/books/Software%20Architecture%20in%20Practice%20(3rd).pdf">Len Bass, Paul Clements, & Rick Kazman. Software Architecture in Practice (Third Edition). Addison-Wesley, 2013</a></li>
   <li><a href="/software-architecture/docs/books/Software%20Architecture_Foundations_Theory_Practice.pdf">Richard N. Taylor, Nenad Medvidovic, & Eric M. Dashofy. Software Architecture: Foundations, Theory, and Practice. Wiley, 2010</a></li>
   </ul>
@@ -41,7 +45,3 @@
   <li><a href="https://github.com/isurunuwanthilaka/map-reduce-average-java"> Map Reduce - Averaging on list of numbers - Java</a></li>
   </ul>
  </details>
-
-### Lets do Research
-
-### Miscellaneous Ideas
