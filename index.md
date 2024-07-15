@@ -1,10 +1,4 @@
-
-### Lecture Notes
-
-<details>
-  <summary>Introduction</summary>
-
-  <ul>
-    <li><a href="/lecture-notes/intro/intro.pdf">Introduction</a>In</li>
-  </ul>
- </details>
+<!-- Add code to populate all the PDFs -->
+{% for pdf in pdfs %}
+  // Code to populate the PDF: {{ pdf }}
+{% endfor %}
