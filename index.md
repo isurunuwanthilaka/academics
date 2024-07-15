@@ -1,10 +1,3 @@
-
----
-
-layout: default
-title: Home
----
-
 <details>
   <summary>General</summary>
 
