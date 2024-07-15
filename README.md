@@ -1,3 +1,3 @@
-# Software Architecture
+# Academic Publishing by Isuru Nuwanthilaka
 
-This is a place to learn Software Architecture.
+Collection of my lecture notes.
