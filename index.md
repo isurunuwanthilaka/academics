@@ -1,4 +1,14 @@
-<!-- Add code to populate all the PDFs -->
-{% for pdf in pdfs %}
-  // Code to populate the PDF: {{ pdf }}
-{% endfor %}
+
+---
+
+layout: default
+title: Home
+---
+
+<details>
+  <summary>General</summary>
+
+  <ul>
+    <li><a href="/cv/resume.pdf">Who am I?</a></li>
+  </ul>
+ </details>
